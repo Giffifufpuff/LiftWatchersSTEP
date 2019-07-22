@@ -1,0 +1,11 @@
+FlexboxLayout {
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-image: url("https://www.google.com/search?q=workout+images&rlz=1C1GGRV_enUS803US803&source=lnms&tbm=isch&sa=X&ved=0ahUKEwifi-Go9cjjAhVjUN8KHbP2AyYQ_AUIECgB&biw=1600&bih=757#imgdii=-149YEOSdXrx1M:&imgrc=RZfMOmiEpgRGLM:");
+}
+StackLayout {
+  width: 300;
+  padding: 10 16;
+  background-color: #f0f0f0;
+}
